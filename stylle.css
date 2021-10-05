@@ -34,7 +34,7 @@
             border: 1px solid black;}
 
             .Big-button{color:white;
-            background-color: #32435f;
+            background-color: #4d96a9;
             font-size: 15px;
             border-radius: 20px;
             padding: 13px 2px 13px 2px;
@@ -57,29 +57,31 @@
               justify-content: center;
               padding:30px 10px 30px 10px;
               margin :0px 0px 0px 0px;
-             
-        
                 }
                 .Bigbutton{
                     
-            background-color: #32435f;
+            background-color: #A13E97;
             font-size: 15px;
             border-radius: 20px;
             padding: 13px 2px 13px 2px;
             margin: 50px 5px 10px 100px;
             width: 150px;
-            border: 1px solid #a67f78;
+            border: 1px solid #a13e97c9;
                 }
-                .footcontainer{
+                .footcontainer{background-color: #4d96a9;
                   background-image: url(./image-footer.jpg);
-                 margin: 0px 1px 1px 0px;}
-                .footertext1{color: #691c62;
-                  padding: 10px 40px 20px 5px;
+                 margin: 0px 1px 1px 0px;
+                 background-blend-mode: soft-light;
                 }
-                .footertext2 {color: #691c62;
+                
+                 .footertext1{color: #330c30;
+                  padding: 10px 40px 20px 5px;
+                
+                }
+                .footertext2 {color: #330c30;
                   padding: 20px 60px 40px 60px;
                 }
-                .built{color:#A13E97}
+                .built{color:#88067b}
                 
           
           
